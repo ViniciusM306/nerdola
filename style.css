@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Caprasimo&family=Carter+One&family=Indie+Flower&family=Kaushan+Script&family=Lobster&family=Shadow+Into+Light&family=Teko&family=Ysabeau+SC:wght@1;600&display=swap');
+
+#conteudo_corpo {
+    background-image: url("imagemnova.jpg");
+    padding: 30px;
+    margin: 50px;
+    border: outset rgb(163, 162, 162) 5px;
+    border-radius: 17px;
+    box-shadow: black 13px 10px;
+}
+
+#conteudo_titulo_1{
+    color: black;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+}
+
+#conteudo_texto_1{
+    color: black;
+    font-size: 20px;
+    font-family: 'Ysabeau SC', sans-serif;
+    font-weight: 600;
+}
+
+#conteudo_titulo_2{
+    color: black;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+}
+
+#conteudo_texto_2{
+    color:black;
+    font-size: 20px;
+    font-family: 'Ysabeau SC', sans-serif;
+    font-weight: 600;
+}
+
+#conteudo_titulo_3{
+    color: black;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+}
+
+#conteudo_texto_3{
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: 'Ysabeau SC', sans-serif;
+    font-weight: 600;
+}
+
+#conteudo_botao1{
+    text-align: center;
+}
+
+#conteudo_botao2{
+    text-align: center;
+    text-decoration: none;
+    border: outset black;
+    border-radius: 10px;
+    box-shadow: 5px 2px;
+    padding: 9px;
+    color: black;
+    font-family: 'Kaushan Script', cursive;
+
+}
+
+#conteudo_botao2:hover{
+    background-color: rgb(255, 153, 0);
+    transition: 1s;
+}
